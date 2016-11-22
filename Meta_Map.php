@@ -3,6 +3,7 @@
 
 namespace Tribe\Libs\Post_Meta;
 
+use Tribe\Libs\Object_Meta\Meta_Group;
 
 /**
  * Class Meta_Map
